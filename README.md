@@ -1,5 +1,4 @@
 # RiAPI
-API tests: upload, getfilemetadata, delete file
 
 Here 3 tests on C# (RestSharp) with:
 * Upload
